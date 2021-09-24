@@ -199,14 +199,14 @@ export default class Home extends React.Component{
                        marginTop:30,
                    }}>
                        <Product
-                            image={require("../../assets/images/salad.jpeg")}
+                            image={require("../../assets/images/burger.jpeg")}
                             title="Smokehouse"
                             price="12.99"
                             onPress={() => this.props.navigation.navigate('Detail')}
                        />
                        <Product
-                            image={require("../../assets/images/burrito.jpg")}
-                            title="Honey Chilli"
+                            image={require("../../assets/images/salad.jpeg")}
+                            title="Salads"
                             price="10.99"
                             marginTop={25}
                        />
