@@ -160,7 +160,7 @@ export default class Detail extends React.Component{
                            marginRight:10
                        }}>
                            <Image
-                            source={require('../../assets/images/burger.jpeg')}
+                            source={require('../../assets/images/burgerbuns.jpg')}
                             style={{height:30,width:30}}
                            />
                        </View>
@@ -173,7 +173,7 @@ export default class Detail extends React.Component{
                            marginRight:10
                        }}>
                            <Image
-                            source={require('../../assets/images/burger.jpeg')}
+                            source={require('../../assets/images/burgerpatty.jpeg')}
                             style={{height:30,width:30}}
                            />
                        </View>
@@ -186,7 +186,7 @@ export default class Detail extends React.Component{
                            marginRight:10
                        }}>
                            <Image
-                            source={require('../../assets/images/burger.jpeg')}
+                            source={require('../../assets/images/tomatoes.png')}
                             style={{height:30,width:30}}
                            />
                        </View>
@@ -199,7 +199,7 @@ export default class Detail extends React.Component{
                            marginRight:10
                        }}>
                            <Image
-                            source={require('../../assets/images/burger.jpeg')}
+                            source={require('../../assets/images/onions.jpg')}
                             style={{height:30,width:30}}
                            />
                        </View>
@@ -212,7 +212,7 @@ export default class Detail extends React.Component{
                            marginRight:10
                        }}>
                            <Image
-                            source={require('../../assets/images/burger.jpeg')}
+                            source={require('../../assets/images/cheese.jpg')}
                             style={{height:30,width:30}}
                            />
                        </View>
@@ -225,7 +225,7 @@ export default class Detail extends React.Component{
                            marginRight:10
                        }}>
                            <Image
-                            source={require('../../assets/images/burger.jpeg')}
+                            source={require('../../assets/images/iceberglettuce.jpg')}
                             style={{height:30,width:30}}
                            />
                        </View>
